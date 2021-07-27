@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Enzo%20Serafin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-serafin-6b3401143/)](https://www.linkedin.com/in/enzo-serafin-6b3401143/)
+
 <!--
 **enzoserafin/enzoserafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
